@@ -1,0 +1,16 @@
+{
+    "blogs": [
+    {
+        "title": "Oliver Twist",
+        "Body": "The sad story of a boy",
+        "author": "Charls Dickens",
+        "id": 1
+    },
+    {
+        "title": "The immortals of Meluha",
+        "Body": "The story os shiva as a human being",
+        "author": "Amish",
+        "id": 2
+    }
+   ]
+}
